@@ -26,7 +26,7 @@ function access(){
     const pwd = document.getElementById("pwd");
     const hidden = document.getElementById("hide");
 
-    if(pwd.value === "123"){
+    if(pwd.value === "K!t7b@nX"){
    
         document.getElementById("hide").style.visibility = "visible";
     }else{
